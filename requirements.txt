@@ -1,0 +1,8 @@
+fastapi 
+uvicorn
+httpx
+openai
+python-multipart
+pydantic
+tqdm
+beautifulsoup4
